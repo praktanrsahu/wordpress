@@ -1,2 +1,6 @@
 - src: https://github.com/praktanrsahu/mariadb.git
   name: mariadb
+
+- src: https://github.com/geerlingguy/ansible-role-nodejs.git
+  name: nodejs
+  
