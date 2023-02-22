@@ -1,2 +1,2 @@
-# wordpress
-Ansible-galaxy
+## WordPress+MariaDB Deployment
+
