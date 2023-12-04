@@ -1,5 +1,0 @@
-- name: Install helloworld
-  hosts: all
-
-  roles:
-    - helloworld
