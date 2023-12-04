@@ -3,6 +3,3 @@
 
 - src: https://github.com/geerlingguy/ansible-role-nodejs.git
   name: nodejs
-
-- src: https://github.com/praktanrsahu/helloworld.git
-  name: helloworld
