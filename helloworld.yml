@@ -1,8 +1,10 @@
 - name: Install helloworld
   hosts: all
-  remote_user: root
-  # remote_user: user
-  # sudo: yes
 
   roles:
     - helloworld
+
+  tasks:
+  - name: Print debug message
+    debug:
+      msg: Hello, world!
